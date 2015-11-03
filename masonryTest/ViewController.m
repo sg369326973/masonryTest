@@ -28,6 +28,8 @@
     
     NSLog(@"321");
     
+    NSLog(@"333");
+    
 //    UIView *view1 = [[UIView alloc] init];
 //    view1.backgroundColor = [UIColor blackColor];
 //    [self.view addSubview:view1];
