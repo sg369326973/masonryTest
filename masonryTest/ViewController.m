@@ -79,8 +79,6 @@
     return 1;
 }
 
-- ta
-
 - (void)didReceiveMemoryWarning {
     [super didReceiveMemoryWarning];
     // Dispose of any resources that can be recreated.
