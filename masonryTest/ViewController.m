@@ -23,6 +23,9 @@
     
     WS(weakSelf);
     
+    
+    NSLog(@"123");
+    
 //    UIView *view1 = [[UIView alloc] init];
 //    view1.backgroundColor = [UIColor blackColor];
 //    [self.view addSubview:view1];
@@ -78,8 +81,6 @@
 - (NSInteger)numberOfSectionsInTableView:(UITableView *)tableView{
     return 1;
 }
-
-- ta
 
 - (void)didReceiveMemoryWarning {
     [super didReceiveMemoryWarning];
